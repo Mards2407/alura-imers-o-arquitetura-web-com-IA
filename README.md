@@ -1,5 +1,10 @@
 # Alura Album - Copa do Mundo Tech
 
+<p align = "center">
+  <img alt="Copa do Mundo Tech" src=".github/preview.png" width="100%">
+</p>
+
+
 Este projeto é um **Álbum de Figurinhas Virtual Interativo** que homenageia grandes personalidades da tecnologia, tanto internacionais quanto nacionais, divididos em categorias como Inteligência Artificial, Python, Banco de Dados, Sistemas Operacionais e Celebridades Tech do Brasil. O projeto foi desenvolvido como parte da Imersão da Alura.
 
 ---
@@ -54,9 +59,11 @@ Responsável por toda a estilização e identidade visual da aplicação.
 3. Use os botões laterais ou as setas do teclado para folhear o álbum e colecione todas as figurinhas!
 
 ---
-## lingugens utilizadas
-python
-javascript
-html
-css
-e bibliotecas python :fastApi e Uvicorn
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- python com bibliotecas de APIS e servidor!!
+- API - FastAPI
+- SERVIDOR - Uvicorn
