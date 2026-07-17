@@ -52,3 +52,11 @@ Responsável por toda a estilização e identidade visual da aplicação.
    *(Geralmente inicializada via FastAPI: `uvicorn main:app --reload` dentro da pasta do backend)*.
 2. Abra o arquivo [index.html](file:///d:/dowload%20crome/i-arq-ia-alura-album-main/i-arq-ia-alura-album-main/index.html) diretamente em seu navegador web (ou utilizando extensões como o Live Server no VS Code).
 3. Use os botões laterais ou as setas do teclado para folhear o álbum e colecione todas as figurinhas!
+
+---
+## lingugens utilizadas
+python
+javascript
+html
+css
+e bibliotecas python :fastApi e Uvicorn
