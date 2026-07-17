@@ -1,0 +1,4 @@
+1 - FastAPI 
+2 - Uvicorn
+alem dos prompts das aulas que foram apresentados!!!
+
